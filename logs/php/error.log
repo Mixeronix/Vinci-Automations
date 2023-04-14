@@ -1,0 +1,735 @@
+[11-Apr-2023 14:49:01 UTC] PHP Warning:  Array to string conversion in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/formatting.php on line 1098
+[11-Apr-2023 14:54:33 UTC] PHP Warning:  Array to string conversion in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/formatting.php on line 1098
+[11-Apr-2023 14:57:05 UTC] PHP Warning:  Array to string conversion in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/formatting.php on line 1098
+[11-Apr-2023 15:04:38 UTC] PHP Warning:  Array to string conversion in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/formatting.php on line 1098
+[11-Apr-2023 15:04:44 UTC] PHP Warning:  Array to string conversion in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/formatting.php on line 1098
+[11-Apr-2023 15:05:55 UTC] PHP Warning:  Array to string conversion in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/formatting.php on line 1098
+[11-Apr-2023 15:34:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:38:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:40:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:40:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:41:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:41:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:42:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:42:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:43:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:43:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:43:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:43:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:44:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:45:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:46:23 UTC] PHP Warning:  Undefined array key "google-plus" in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/ocean-extra/includes/widgets/social.php on line 543
+[11-Apr-2023 16:46:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/ocean-extra/includes/widgets/social.php on line 543
+[11-Apr-2023 16:46:23 UTC] PHP Warning:  Undefined array key "vimeo-square" in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/ocean-extra/includes/widgets/social.php on line 543
+[11-Apr-2023 16:46:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/ocean-extra/includes/widgets/social.php on line 543
+[11-Apr-2023 16:47:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:47:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:48:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:48:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 16:49:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/themes/oceanwp/inc/helpers.php on line 2448
+[11-Apr-2023 17:28:15 UTC] PHP Warning:  Undefined array key "google-plus" in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/ocean-extra/includes/widgets/social.php on line 543
+[11-Apr-2023 17:28:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/ocean-extra/includes/widgets/social.php on line 543
+[11-Apr-2023 17:28:15 UTC] PHP Warning:  Undefined array key "vimeo-square" in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/ocean-extra/includes/widgets/social.php on line 543
+[11-Apr-2023 17:28:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/ocean-extra/includes/widgets/social.php on line 543
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:34:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:36:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:36:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:36:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:41:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[11-Apr-2023 17:48:17 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "Freemius" not found in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-admin/includes/plugin.php(1265): do_action('uninstall_ocean...')
+#3 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-admin/includes/plugin.php(958): uninstall_plugin('ocean-social-sh...')
+#4 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-admin/includes/ajax-actions.php(4701): delete_plugins(Array)
+#5 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/class-wp-hook.php(308): wp_ajax_delete_plugin('')
+#6 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-admin/admin-ajax.php(188): do_action('wp_ajax_delete-...')
+#9 {main}
+  thrown in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/class-wp-hook.php on line 308
+[11-Apr-2023 17:49:00 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[11-Apr-2023 19:18:34 UTC] Sync process for Gutenberg Blocks has started.
+[11-Apr-2023 19:18:34 UTC] CATEGORY:Importing categories..
+[11-Apr-2023 19:18:34 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[11-Apr-2023 19:18:34 UTC] CATEGORY:Completed category import.
+[11-Apr-2023 19:18:34 UTC] BLOCK: Getting Total Blocks
+[11-Apr-2023 19:18:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[11-Apr-2023 19:18:34 UTC] BLOCK: Requests count 4
+[11-Apr-2023 19:18:34 UTC] BLOCK: Importing request 1 ..
+[11-Apr-2023 19:18:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[11-Apr-2023 19:18:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[11-Apr-2023 19:18:34 UTC] BLOCK: Completed request 1
+[11-Apr-2023 19:18:34 UTC] BLOCK: Importing request 2 ..
+[11-Apr-2023 19:18:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[11-Apr-2023 19:18:35 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[11-Apr-2023 19:18:35 UTC] BLOCK: Completed request 2
+[11-Apr-2023 19:18:35 UTC] BLOCK: Importing request 3 ..
+[11-Apr-2023 19:18:35 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[11-Apr-2023 19:18:35 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[11-Apr-2023 19:18:35 UTC] BLOCK: Completed request 3
+[11-Apr-2023 19:18:35 UTC] BLOCK: Importing request 4 ..
+[11-Apr-2023 19:18:35 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[11-Apr-2023 19:18:35 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[11-Apr-2023 19:18:35 UTC] BLOCK: Completed request 4
+[11-Apr-2023 19:18:35 UTC] SITE: Getting Total Sites
+[11-Apr-2023 19:18:35 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[11-Apr-2023 19:18:35 UTC] SITE: Request count 2
+[11-Apr-2023 19:18:35 UTC] SITE: Importing request 1 ..
+[11-Apr-2023 19:18:35 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[11-Apr-2023 19:18:35 UTC] SITE: Storing in option ast-block-templates-sites-1
+[11-Apr-2023 19:18:35 UTC] SITE: Completed request 1
+[11-Apr-2023 19:18:35 UTC] SITE: Importing request 2 ..
+[11-Apr-2023 19:18:35 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[11-Apr-2023 19:18:36 UTC] SITE: Storing in option ast-block-templates-sites-2
+[11-Apr-2023 19:18:36 UTC] SITE: Completed request 2
+[11-Apr-2023 19:18:36 UTC] Sync process for Gutenberg Blocks is done.
+[12-Apr-2023 06:31:38 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:31:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:31:38 UTC] Log - {"id":"4204","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2021\/03\/basil-leaf.png"}
+[12-Apr-2023 06:31:38 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:31:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:31:38 UTC] Log - {"id":"3007","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2020\/01\/banner-01.jpg"}
+[12-Apr-2023 06:31:38 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:31:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:31:38 UTC] Log - {"id":"3010","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2020\/01\/image-02.jpg"}
+[12-Apr-2023 06:31:38 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:31:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:31:38 UTC] Log - {"id":"2515","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2019\/07\/client02-free-img.png"}
+[12-Apr-2023 06:31:38 UTC] Source - https://websitedemos.net/organic-shop-08/wp-includes/images/media/default.png
+[12-Apr-2023 06:31:38 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-includes/images/media/default.png
+[12-Apr-2023 06:31:38 UTC] Log - {"url":"https:\/\/websitedemos.net\/organic-shop-08\/wp-includes\/images\/media\/default.png","id":0}
+[12-Apr-2023 06:31:39 UTC] default.png
+[12-Apr-2023 06:31:39 UTC] {"file":"\/Users\/bartoszwiaderek\/Programming\/smarthome-website\/app\/public\/wp-content\/uploads\/2023\/04\/default.png","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2023\/04\/default.png","type":"image\/png","error":false}
+[12-Apr-2023 06:31:39 UTC] {"post_title":"default.png","guid":"http:\/\/smarthome.local\/wp-content\/uploads\/2023\/04\/default.png"}
+[12-Apr-2023 06:31:39 UTC] BATCH - SUCCESS Image {Imported} - http://smarthome.local/wp-content/uploads/2023/04/default.png
+[12-Apr-2023 06:31:39 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:31:39 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:31:39 UTC] Log - {"id":"2032","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2019\/06\/organic-badge-freeimg.png"}
+[12-Apr-2023 06:31:39 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:31:39 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:31:39 UTC] Log - {"id":"2518","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2019\/07\/logo-leaf-new.png"}
+[12-Apr-2023 06:35:20 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:35:20 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:35:20 UTC] Log - {"id":"4204","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2021\/03\/basil-leaf.png"}
+[12-Apr-2023 06:35:20 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:35:20 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:35:20 UTC] Log - {"id":"3007","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2020\/01\/banner-01.jpg"}
+[12-Apr-2023 06:35:20 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:35:20 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:35:20 UTC] Log - {"id":"3010","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2020\/01\/image-02.jpg"}
+[12-Apr-2023 06:35:20 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:35:20 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:35:20 UTC] Log - {"id":"2515","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2019\/07\/client02-free-img.png"}
+[12-Apr-2023 06:35:20 UTC] Source - https://websitedemos.net/organic-shop-08/wp-includes/images/media/default.png
+[12-Apr-2023 06:35:20 UTC] Log - {"id":"5533","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2023\/04\/default.png"}
+[12-Apr-2023 06:35:20 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:35:20 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:35:20 UTC] Log - {"id":"2032","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2019\/06\/organic-badge-freeimg.png"}
+[12-Apr-2023 06:35:20 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:35:20 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:35:20 UTC] Log - {"id":"2518","url":"http:\/\/smarthome.local\/wp-content\/uploads\/2019\/07\/logo-leaf-new.png"}
+[12-Apr-2023 06:42:12 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:42:12 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:42:12 UTC] Log - {"id":"4204","url":"http:\/\/vinci\/wp-content\/uploads\/2021\/03\/basil-leaf.png"}
+[12-Apr-2023 06:42:12 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:42:12 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:42:12 UTC] Log - {"id":"3007","url":"http:\/\/vinci\/wp-content\/uploads\/2020\/01\/banner-01.jpg"}
+[12-Apr-2023 06:42:12 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:42:12 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:42:12 UTC] Log - {"id":"3010","url":"http:\/\/vinci\/wp-content\/uploads\/2020\/01\/image-02.jpg"}
+[12-Apr-2023 06:42:12 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:42:12 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:42:12 UTC] Log - {"id":"2515","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/07\/client02-free-img.png"}
+[12-Apr-2023 06:42:12 UTC] Source - https://websitedemos.net/organic-shop-08/wp-includes/images/media/default.png
+[12-Apr-2023 06:42:12 UTC] Log - {"id":"5533","url":"http:\/\/vinci\/wp-content\/uploads\/2023\/04\/default.png"}
+[12-Apr-2023 06:42:12 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:42:12 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:42:12 UTC] Log - {"id":"2032","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/06\/organic-badge-freeimg.png"}
+[12-Apr-2023 06:42:12 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:42:12 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:42:12 UTC] Log - {"id":"2518","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/07\/logo-leaf-new.png"}
+[12-Apr-2023 06:42:40 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:42:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:42:40 UTC] Log - {"id":"4204","url":"http:\/\/vinci\/wp-content\/uploads\/2021\/03\/basil-leaf.png"}
+[12-Apr-2023 06:42:40 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:42:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:42:40 UTC] Log - {"id":"3007","url":"http:\/\/vinci\/wp-content\/uploads\/2020\/01\/banner-01.jpg"}
+[12-Apr-2023 06:42:40 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:42:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:42:40 UTC] Log - {"id":"3010","url":"http:\/\/vinci\/wp-content\/uploads\/2020\/01\/image-02.jpg"}
+[12-Apr-2023 06:42:40 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:42:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:42:40 UTC] Log - {"id":"2515","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/07\/client02-free-img.png"}
+[12-Apr-2023 06:42:40 UTC] Source - https://websitedemos.net/organic-shop-08/wp-includes/images/media/default.png
+[12-Apr-2023 06:42:40 UTC] Log - {"id":"5533","url":"http:\/\/vinci\/wp-content\/uploads\/2023\/04\/default.png"}
+[12-Apr-2023 06:42:40 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:42:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:42:40 UTC] Log - {"id":"2032","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/06\/organic-badge-freeimg.png"}
+[12-Apr-2023 06:42:40 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:42:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:42:40 UTC] Log - {"id":"2518","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/07\/logo-leaf-new.png"}
+[12-Apr-2023 06:43:16 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:43:16 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:43:16 UTC] Log - {"id":"4204","url":"http:\/\/vinci\/wp-content\/uploads\/2021\/03\/basil-leaf.png"}
+[12-Apr-2023 06:43:16 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:43:16 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:43:16 UTC] Log - {"id":"3007","url":"http:\/\/vinci\/wp-content\/uploads\/2020\/01\/banner-01.jpg"}
+[12-Apr-2023 06:43:16 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:43:16 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:43:16 UTC] Log - {"id":"3010","url":"http:\/\/vinci\/wp-content\/uploads\/2020\/01\/image-02.jpg"}
+[12-Apr-2023 06:43:16 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:43:16 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:43:16 UTC] Log - {"id":"2515","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/07\/client02-free-img.png"}
+[12-Apr-2023 06:43:16 UTC] Source - https://websitedemos.net/organic-shop-08/wp-includes/images/media/default.png
+[12-Apr-2023 06:43:16 UTC] Log - {"id":"5533","url":"http:\/\/vinci\/wp-content\/uploads\/2023\/04\/default.png"}
+[12-Apr-2023 06:43:16 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:43:16 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:43:16 UTC] Log - {"id":"2032","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/06\/organic-badge-freeimg.png"}
+[12-Apr-2023 06:43:16 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:43:16 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:43:16 UTC] Log - {"id":"2518","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/07\/logo-leaf-new.png"}
+[12-Apr-2023 06:45:17 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:45:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2021/03/basil-leaf.png
+[12-Apr-2023 06:45:17 UTC] Log - {"id":"4204","url":"http:\/\/vinci\/wp-content\/uploads\/2021\/03\/basil-leaf.png"}
+[12-Apr-2023 06:45:17 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:45:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/banner-01.jpg
+[12-Apr-2023 06:45:17 UTC] Log - {"id":"3007","url":"http:\/\/vinci\/wp-content\/uploads\/2020\/01\/banner-01.jpg"}
+[12-Apr-2023 06:45:17 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:45:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2020/01/image-02.jpg
+[12-Apr-2023 06:45:17 UTC] Log - {"id":"3010","url":"http:\/\/vinci\/wp-content\/uploads\/2020\/01\/image-02.jpg"}
+[12-Apr-2023 06:45:17 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:45:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/client02-free-img.png
+[12-Apr-2023 06:45:17 UTC] Log - {"id":"2515","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/07\/client02-free-img.png"}
+[12-Apr-2023 06:45:17 UTC] Source - https://websitedemos.net/organic-shop-08/wp-includes/images/media/default.png
+[12-Apr-2023 06:45:17 UTC] Log - {"id":"5533","url":"http:\/\/vinci\/wp-content\/uploads\/2023\/04\/default.png"}
+[12-Apr-2023 06:45:17 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:45:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/06/organic-badge-freeimg.png
+[12-Apr-2023 06:45:17 UTC] Log - {"id":"2032","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/06\/organic-badge-freeimg.png"}
+[12-Apr-2023 06:45:17 UTC] Source - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:45:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-08/wp-content/uploads/sites/678/2019/07/logo-leaf-new.png
+[12-Apr-2023 06:45:17 UTC] Log - {"id":"2518","url":"http:\/\/vinci\/wp-content\/uploads\/2019\/07\/logo-leaf-new.png"}
+[12-Apr-2023 19:50:38 UTC] Sync process for Gutenberg Blocks has started.
+[12-Apr-2023 19:50:38 UTC] CATEGORY:Importing categories..
+[12-Apr-2023 19:50:38 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[12-Apr-2023 19:50:38 UTC] CATEGORY:Completed category import.
+[12-Apr-2023 19:50:38 UTC] BLOCK: Getting Total Blocks
+[12-Apr-2023 19:50:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[12-Apr-2023 19:50:38 UTC] BLOCK: Requests count 4
+[12-Apr-2023 19:50:38 UTC] BLOCK: Importing request 1 ..
+[12-Apr-2023 19:50:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[12-Apr-2023 19:50:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[12-Apr-2023 19:50:39 UTC] BLOCK: Completed request 1
+[12-Apr-2023 19:50:39 UTC] BLOCK: Importing request 2 ..
+[12-Apr-2023 19:50:39 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[12-Apr-2023 19:50:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[12-Apr-2023 19:50:39 UTC] BLOCK: Completed request 2
+[12-Apr-2023 19:50:39 UTC] BLOCK: Importing request 3 ..
+[12-Apr-2023 19:50:39 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[12-Apr-2023 19:50:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[12-Apr-2023 19:50:39 UTC] BLOCK: Completed request 3
+[12-Apr-2023 19:50:39 UTC] BLOCK: Importing request 4 ..
+[12-Apr-2023 19:50:39 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[12-Apr-2023 19:50:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[12-Apr-2023 19:50:39 UTC] BLOCK: Completed request 4
+[12-Apr-2023 19:50:39 UTC] SITE: Getting Total Sites
+[12-Apr-2023 19:50:39 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[12-Apr-2023 19:50:39 UTC] SITE: Request count 2
+[12-Apr-2023 19:50:39 UTC] SITE: Importing request 1 ..
+[12-Apr-2023 19:50:39 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[12-Apr-2023 19:50:40 UTC] SITE: Storing in option ast-block-templates-sites-1
+[12-Apr-2023 19:50:40 UTC] SITE: Completed request 1
+[12-Apr-2023 19:50:40 UTC] SITE: Importing request 2 ..
+[12-Apr-2023 19:50:40 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[12-Apr-2023 19:50:40 UTC] SITE: Storing in option ast-block-templates-sites-2
+[12-Apr-2023 19:50:40 UTC] SITE: Completed request 2
+[12-Apr-2023 19:50:40 UTC] Sync process for Gutenberg Blocks is done.
+[12-Apr-2023 20:03:08 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[12-Apr-2023 20:03:08 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[12-Apr-2023 20:03:32 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[12-Apr-2023 20:03:32 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[12-Apr-2023 20:03:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[12-Apr-2023 20:03:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:52:24 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/load.php on line 300
+[13-Apr-2023 09:52:24 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/load.php on line 300
+[13-Apr-2023 09:52:24 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/load.php on line 300
+[13-Apr-2023 09:56:59 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/load.php on line 300
+[13-Apr-2023 09:56:59 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/load.php on line 300
+[13-Apr-2023 09:56:59 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-includes/load.php on line 300
+[14-Apr-2023 09:44:38 UTC] Sync process for Gutenberg Blocks has started.
+[14-Apr-2023 09:44:38 UTC] CATEGORY:Importing categories..
+[14-Apr-2023 09:44:38 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[14-Apr-2023 09:44:38 UTC] CATEGORY:Completed category import.
+[14-Apr-2023 09:44:38 UTC] BLOCK: Getting Total Blocks
+[14-Apr-2023 09:44:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[14-Apr-2023 09:44:38 UTC] BLOCK: Requests count 4
+[14-Apr-2023 09:44:38 UTC] BLOCK: Importing request 1 ..
+[14-Apr-2023 09:44:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[14-Apr-2023 09:44:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[14-Apr-2023 09:44:38 UTC] BLOCK: Completed request 1
+[14-Apr-2023 09:44:38 UTC] BLOCK: Importing request 2 ..
+[14-Apr-2023 09:44:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[14-Apr-2023 09:44:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[14-Apr-2023 09:44:39 UTC] BLOCK: Completed request 2
+[14-Apr-2023 09:44:39 UTC] BLOCK: Importing request 3 ..
+[14-Apr-2023 09:44:39 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[14-Apr-2023 09:44:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[14-Apr-2023 09:44:39 UTC] BLOCK: Completed request 3
+[14-Apr-2023 09:44:39 UTC] BLOCK: Importing request 4 ..
+[14-Apr-2023 09:44:39 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[14-Apr-2023 09:44:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[14-Apr-2023 09:44:39 UTC] BLOCK: Completed request 4
+[14-Apr-2023 09:44:39 UTC] SITE: Getting Total Sites
+[14-Apr-2023 09:44:39 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[14-Apr-2023 09:44:39 UTC] SITE: Request count 2
+[14-Apr-2023 09:44:39 UTC] SITE: Importing request 1 ..
+[14-Apr-2023 09:44:39 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[14-Apr-2023 09:44:40 UTC] SITE: Storing in option ast-block-templates-sites-1
+[14-Apr-2023 09:44:40 UTC] SITE: Completed request 1
+[14-Apr-2023 09:44:40 UTC] SITE: Importing request 2 ..
+[14-Apr-2023 09:44:40 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[14-Apr-2023 09:44:40 UTC] SITE: Storing in option ast-block-templates-sites-2
+[14-Apr-2023 09:44:40 UTC] SITE: Completed request 2
+[14-Apr-2023 09:44:40 UTC] Sync process for Gutenberg Blocks is done.
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:55:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 09:56:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:06:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:14:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:18:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 10:19:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/bartoszwiaderek/Programming/smarthome-website/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 108
+[14-Apr-2023 11:53:27 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:53:27 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:53:27 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:53:27 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:53:27 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:53:27 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:56:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:56:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:56:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:56:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:56:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:56:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Apr-2023 11:57:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
